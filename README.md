@@ -16,8 +16,10 @@
 2. Video-games ocasionally,
 3. Music, I play guitar rarely.
 
-Feel free to contact me on my social profiles:
+---
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge", url="https://www.linkedin.com/in/rodolfo-amancio/"/>
+<i>Feel free to contact me on my social profiles:</i><br>
+
+<a href="https://www.linkedin.com/in/rodolfo-amancio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 </div>
