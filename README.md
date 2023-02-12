@@ -13,7 +13,7 @@
 - 🧪 I am also finishing my master's of science in Chemical enginering, with focus on statistical mechanics and Monte Carlo Simulations. I also hold particular interest for discussions surrounding causality in health, economy and related fields. 
 - 🎞 On my personal life, my main interests and hobbies are:
 1. Cinema, series and books,
-2. Video-games ocasionally,
+2. Video-games occasionally,
 3. Music, I play guitar rarely.
 - 🛠 Skills: 
 
@@ -44,6 +44,7 @@
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
