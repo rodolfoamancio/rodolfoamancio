@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am a Data Scientist at Uber. Previously, I have worked on healthy and industry companies.
+- 🔭 I am a Data Scientist at Uber. Previously, I have worked on health and industry companies.
 - 📚 On a thechnical note, my main interests are:
 1. Machine learning, 
 2. Causal inference, 
